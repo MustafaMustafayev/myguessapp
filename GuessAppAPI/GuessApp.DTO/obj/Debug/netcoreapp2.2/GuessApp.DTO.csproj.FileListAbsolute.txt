@@ -1,0 +1,12 @@
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\bin\Debug\netcoreapp2.2\GuessApp.DTO.deps.json
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\bin\Debug\netcoreapp2.2\GuessApp.DTO.dll
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\bin\Debug\netcoreapp2.2\GuessApp.DTO.pdb
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.csproj.CoreCompileInputs.cache
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.AssemblyInfoInputs.cache
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.AssemblyInfo.cs
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.dll
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.pdb
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.csprojAssemblyReference.cache
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.dll
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.xml
+D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.DTO\obj\Debug\netcoreapp2.2\GuessApp.DTO.csproj.CopyComplete

@@ -1,0 +1,31 @@
+export const defaultState = ()=>{
+  return{
+    statusCode:'',
+    responseText:'',
+    userId:'',
+    userName:'',
+    name:'',
+    surname:'',
+    userMail:'',
+    userPhone:'',
+    isLogin:localStorage.token && true,
+    isRegister:false,
+    isLoginWithoutAccount:false,
+    userPosts:[],
+    personalPosts:[],
+    pageNumber:1,
+    personalPageNumber:1,
+    successCount:'',
+    failureCount:'',
+    unknownCount:'',
+    profileUserName:'',
+    profileUserId:'',
+    profileUserPhone:'',
+    registerSuccess:false,
+    forgotPassword:false,
+    forgotPasswordUserId:'',
+    isPasswordUpdated:false,
+    isUserUpdated:false,
+    userSlug:''
+  }
+};
