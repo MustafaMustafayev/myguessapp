@@ -33,17 +33,17 @@ namespace GuessAppAPI.Controllers
 
         //[AllowAnonymous]
         [HttpPost("addPostImage")]
-        public async Task<IActionResult> addPostImage([FromForm(Name = "file")] IFormFile file)
+        public async Task<IActionResult> addPostImage([FromForm] PostModel postModel)
         {
             Guid guid = Guid.NewGuid();
             var uploads = Path.Combine(_environment.WebRootPath, "uploads/posts");
-            string fileName = guid.ToString() + file.FileName;
+            string fileName = guid.ToString() + postModel.file.FileName;
             string filePath = "/uploads/posts/" + fileName;
-            if (file.Length > 0)
+            if (postModel.file.Length > 0)
             {
                 using (var fileStream = new FileStream(Path.Combine(uploads, fileName), FileMode.Create))
                 {
-                    await file.CopyToAsync(fileStream);
+                    await postModel.file.CopyToAsync(fileStream);
                 }
             }
 

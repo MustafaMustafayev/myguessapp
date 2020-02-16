@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj",
+      "projectUniqueName": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj",
       "projectName": "GuessApp.DTO",
-      "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj",
+      "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj",
       "packagesPath": "C:\\Users\\Musta\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\obj\\",
+      "outputPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

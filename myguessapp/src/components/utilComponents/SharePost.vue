@@ -111,6 +111,7 @@
             // IMAGE UPLOAD
             let formData = new FormData();
             formData.append('file', this.file);
+            formData.append('userName', 'MustafaX');
 
             if(this.file!=''){
 

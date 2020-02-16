@@ -5475,11 +5475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.BLL\\GuessApp.BLL.csproj",
+      "projectUniqueName": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.BLL\\GuessApp.BLL.csproj",
       "projectName": "GuessApp.BLL",
-      "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.BLL\\GuessApp.BLL.csproj",
+      "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.BLL\\GuessApp.BLL.csproj",
       "packagesPath": "C:\\Users\\Musta\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.BLL\\obj\\",
+      "outputPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5498,11 +5498,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj": {
-              "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj"
+            "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj": {
+              "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj"
             },
-            "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj": {
-              "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj"
+            "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj": {
+              "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj"
             }
           }
         }

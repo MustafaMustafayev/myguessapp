@@ -5455,11 +5455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj",
+      "projectUniqueName": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj",
       "projectName": "GuessApp.DAL",
-      "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj",
+      "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DAL\\GuessApp.DAL.csproj",
       "packagesPath": "C:\\Users\\Musta\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DAL\\obj\\",
+      "outputPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5478,14 +5478,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Core\\GuessApp.Core.csproj": {
-              "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Core\\GuessApp.Core.csproj"
+            "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Core\\GuessApp.Core.csproj": {
+              "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Core\\GuessApp.Core.csproj"
             },
-            "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj": {
-              "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj"
+            "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj": {
+              "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.DTO\\GuessApp.DTO.csproj"
             },
-            "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj": {
-              "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj"
+            "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj": {
+              "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj"
             }
           }
         }

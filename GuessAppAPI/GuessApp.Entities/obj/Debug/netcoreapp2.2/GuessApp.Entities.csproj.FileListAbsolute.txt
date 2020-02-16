@@ -7,3 +7,12 @@ D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.Entities\bin\Debug\netcoreapp2.2\Gues
 D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.dll
 D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.pdb
 D:\MyFiles\MyProjects\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.csprojAssemblyReference.cache
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\bin\Debug\netcoreapp2.2\GuessApp.Entities.deps.json
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\bin\Debug\netcoreapp2.2\GuessApp.Entities.dll
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\bin\Debug\netcoreapp2.2\GuessApp.Entities.pdb
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.csprojAssemblyReference.cache
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.csproj.CoreCompileInputs.cache
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.AssemblyInfoInputs.cache
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.AssemblyInfo.cs
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.dll
+D:\MyFiles\MyProjects\guessappSource\GuessAppAPI\GuessApp.Entities\obj\Debug\netcoreapp2.2\GuessApp.Entities.pdb

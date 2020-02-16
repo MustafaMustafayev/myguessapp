@@ -3541,11 +3541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj",
+      "projectUniqueName": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj",
       "projectName": "GuessApp.Entities",
-      "projectPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj",
+      "projectPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Entities\\GuessApp.Entities.csproj",
       "packagesPath": "C:\\Users\\Musta\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\MyProjects\\GuessAppAPI\\GuessApp.Entities\\obj\\",
+      "outputPath": "D:\\MyFiles\\MyProjects\\guessappSource\\GuessAppAPI\\GuessApp.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
